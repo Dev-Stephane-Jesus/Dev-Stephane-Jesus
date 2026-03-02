@@ -11,6 +11,5 @@
    <img align="center" alt="VSCode" width="40" src="https://github.com/user-attachments/assets/7878d2c1-0f6e-4a94-841a-4a39072d00d5">
 </div>
 <div>
-  <img justify-content="right" align-items="end"
-    src="https://github.com/Dev-Stephane-Jesus/Dev-Stephane-Jesus/blob/main/ezgif.com-cut.gif" width:"90" />
+  <img  src="https://github.com/Dev-Stephane-Jesus/Dev-Stephane-Jesus/blob/main/ezgif.com-cut.gif" width="270px" align="right" />
 </div>
