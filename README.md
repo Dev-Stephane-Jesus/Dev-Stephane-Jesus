@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Stephane de Jesus
 
-- 🔭 Atualmente não estou trabalhando
-- 🌱 Estudando Front-end e UI Design
+- 🎓 Estudando Front-end e UI Design
+- 💼 Aberta a oportunidades
 - 😄 Pronomes: Ela/Dela
 
 <div style="display: inline_block"><br>
